@@ -7,3 +7,4 @@
    1. [Github](https://github.com/iammert/dagger-android-injection/tree/master)
 1. [Dagger 2 Annotations: @Binds & @ContributesAndroidInjector](https://proandroiddev.com/dagger-2-annotations-binds-contributesandroidinjector-a09e6a57758f)
 1. [droidcon NYC 2017 - Optimizing Dagger on Android: Developer Workflow and Runtime Performance](https://www.youtube.com/watch?v=PBrhRvhF00k)
+1. [How to inject mock dependencies into Android components using Dagger AndroidInjector](https://android.jlelse.eu/how-to-inject-mock-dependencies-into-android-components-using-dagger-androidinjector-e274c8f6a9a6)
